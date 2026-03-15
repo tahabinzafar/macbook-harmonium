@@ -23,10 +23,10 @@ Requires macOS. Python latest version works fine.
 
 ## Controls
 
-**A S D F G H J K L** — Sa Re Ga Ma Pa Dha Ni Sa' Re'
-**Z X** — flats
-**↑ ↓** — shift octave
-**Space** — recalibrate sensor
+**A S D F G H J K L** - Sa Re Ga Ma Pa Dha Ni Sa' Re'
+**Z X** - flats
+**↑ ↓** - shift octave
+**Space** - recalibrate sensor
 
 ## Lid sensor compatibility
 
@@ -40,10 +40,10 @@ If that returns a device, you're good.
 
 ## Stack
 
-- **pygame** — window, key events, rendering at 60fps
-- **sounddevice** — low-latency audio output via PortAudio
-- **numpy** — audio buffer math
-- **pybooklid** — lid angle sensor reads over IOKit HID
+- **pygame** - window, key events, rendering at 60fps
+- **sounddevice** - low-latency audio output via PortAudio
+- **numpy** - audio buffer math
+- **pybooklid** - lid angle sensor reads over IOKit HID
 
 ## Credits
 
